@@ -37,6 +37,28 @@ What really adds some flare is the use of the **transition** style property, whi
 Plan and Create a website  
 You will need to have multiple pages that you can navigate.  Plan on having a landing page (often called the index.html) with pictures and an introduction.  Your content can be on other pages.  We will have multiple classes to work on this assignment.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Tips:
 * Gather all of your information first. This will often dicate how you will organize your page contents.  
 * Plan out how your page will look.  This can be done with pencil and paper to bloc out some rough layouts.
